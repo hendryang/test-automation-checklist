@@ -7,7 +7,7 @@ Refer to : https://github.com/hendryang/rapid-automation for sample framework/pr
 
 ## Checklist
 
-| Test Automation Checklist    |                                                                 | Test |
+| Group    |  Test Automation Checklist                                          | Description |
 | ---------------------------- | -------------------------------------------------------------------------- | ---- |
 | Configuration and Management | Configuration injection                                                    | All configuration related to browser should be separated out from the test script. |
 |                              | Secure test credentials                                                    | All credentials related information should not be part of test script or repository, it should be injected. |
